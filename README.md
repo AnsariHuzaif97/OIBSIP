@@ -44,8 +44,8 @@ Scatter plot diagram for intensive information
 
 Thus mostly person who are close to their retirement visits the shop with a decent income.
 
-#Customer Categorisation
-#===========================
+# Customer Categorisation
+
 
 1. The total number of marital_Divorced is 230.
 2. The total number of marital_Married is 854.
@@ -65,8 +65,7 @@ Among the customers
 
 Thus most of the consumer are Graduate.
 
-#Sales analysis
-#================
+# Sales analysis
 
 1. Total money raised is Rs. 1240896 which indicates that selling was quite good in the provided timespan.
 2. 0.90 percent of the customers are not initially satisfied which represents that a very good service is provided to the customers.
