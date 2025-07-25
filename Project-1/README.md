@@ -1,8 +1,8 @@
-🏡 Airbnb NYC 2019 Data Analysis
+# 🏡 Airbnb NYC 2019 Data Analysis
 
 This project explores and analyzes the Airbnb listings dataset from New York City (2019) to identify insights, clean data, and prepare it for machine learning modeling. It includes comprehensive data preprocessing, outlier detection, and visual analysis to understand the behavior of features and relationships.
 
-📁 Dataset Description
+# 📁 Dataset Description
 
 The dataset contains information about Airbnb listings in NYC, with over 48,000 entries and the following key features:
 
@@ -14,7 +14,7 @@ minimum_nights, number_of_reviews, reviews_per_month
 
 availability_365, and more
 
-🛠️ Project Workflow
+# 🛠️ Project Workflow
 
 # 1. Loading & Initial Exploration
 
@@ -56,7 +56,7 @@ Strong correlation observed between reviews and availability.
 
 Location-based analysis reveals key pricing zones.
 
-📊 Key Visuals
+# 📊 Key Visuals
 
 Distribution plots of prices
 
@@ -64,7 +64,7 @@ Heatmaps of correlation before vs. after outlier removal
 
 Bar plots of room types and their average pricing
 
-💡 Potential Extensions
+# 💡 Potential Extensions
 
 Build regression models to predict Airbnb prices.
 
@@ -74,14 +74,14 @@ Time-series analysis on review dates (if timestamp cleaned).
 
 Geo-spatial mapping of listings using folium.
 
-🔧 Technologies Used
+# 🔧 Technologies Used
 Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy)
 
 Jupyter Notebook
 
 CSV Dataset (Kaggle)
 
-📂 How to Run
+# 📂 How to Run
 
 # 1. Clone the repo or download files
 # 2. Install dependencies
@@ -93,7 +93,9 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook airbnb_analysis.ipynb
 
 📌 Author
+
 MD HUZAIFA ANSARI
+
 (https://www.linkedin.com/in/huzaifa-ansari-830988148) | (https://github.com/AnsariHuzaif97)
 
 
