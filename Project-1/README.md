@@ -90,12 +90,11 @@ pip install pandas numpy matplotlib seaborn
 
 # 3. Run the notebook
 
-jupyter notebook airbnb_analysis.ipynb
+jupyter notebook file_name.ipynb
 
 📌 Author
 
 MD HUZAIFA ANSARI
-
 (https://www.linkedin.com/in/huzaifa-ansari-830988148) | (https://github.com/AnsariHuzaif97)
 
 
