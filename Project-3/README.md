@@ -40,6 +40,7 @@ Bar plots, box plots, histograms, or heatmaps
 🙋‍♂️ Author
 
 Huzaifa Ansari
+
 Intern at [Oasis Infobyte]
 
 📃 License
