@@ -50,9 +50,13 @@ Environment: Jupyter Notebook, EditPlus
 
 🙋‍♂️ Author
 Name: Huzaifa Ansari
+
 Program: B.S. in Computer Science and Data Analytics
+
 Institution: IIT Patna
+
 LinkedIn: https://www.linkedin.com/in/huzaifa-ansari-830988148/ 
+
 GitHub: https://github.com/AnsariHuzaif97
 
 📃 License
